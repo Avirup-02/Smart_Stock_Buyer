@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vfFTPb2VPEWBR4ALJHib9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in/stocks/swiggy-ltd" CVScreenId="3c44bbee-ec78-4175-9ff4-9ded6348a5e2" CvTextArea="63, 464, 187, 25" CvType="AnyWordGroup" DesignTimeRectangle="65, 455, 1200, 48" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H2' class='componentsMainHeading contentPrimary headingLarge' /&gt;" Guid="16292dfa-028b-4acc-ac02-af55cc2a5530" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swiggy Share Price Today - SWIGGY Limited Ltd Stock Price Live NSE/BSE' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="225e66a9df8318846957a2f1dac15433.png" xmlns="">0ouX-XOYxgk67Cam4drsCtA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

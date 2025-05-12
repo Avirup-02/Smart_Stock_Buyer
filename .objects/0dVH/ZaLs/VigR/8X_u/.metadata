@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tata Consultancy Servic…(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "8X_uSgtfvUe0O2-zKpzkfQ",
+  "Reference": "jAEWj9OXb0uG6fUhRxRe6Q/8X_uSgtfvUe0O2-zKpzkfQ",
+  "ParentRef": "jAEWj9OXb0uG6fUhRxRe6Q/VigRlFKp3EuOY8WNKBPsog",
+  "Created": "2025-01-25T19:15:27.5457773Z",
+  "Updated": "2025-01-25T19:15:27.5457773Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

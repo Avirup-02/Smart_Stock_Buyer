@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nx5UjTmpOEW-zGA7Lgyp0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in/stocks/zomato-ltd" CVScreenId="0067073b-2759-4176-abea-f9446c6b706e" CvTextArea="518, 762, 46, 21" CvType="AnyWordGroup" DesignTimeRectangle="518, 743, 46, 63" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' class='ft785Value right-align contentPrimary bodyLargeHeavy' tag='TD' /&gt;" Guid="8642c2f7-5d76-484b-9e06-f18aaee0b690" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Zomato Share Price Today - Zomato Limited Ltd Stock Price Live NSE/BSE' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0067073b-2759-4176-abea-f9446c6b706e" CvTextArea="63, 764, 129, 24" CvTextArgument="Debt to Equity" CvType="Text" DesignTimeRectangle="65, 743, 453, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='ft785Head left-align contentSecondary bodyBase' aaname='Debt to Equity' check:innerText='Debt to Equity' /&gt;" Guid="a085236a-292d-4da2-a1d7-141bc9da2867" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="699d4a548338d6e0e73f125f2fee063d.png" xmlns="">0zPTC5msMrEu5821s5BNPyA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

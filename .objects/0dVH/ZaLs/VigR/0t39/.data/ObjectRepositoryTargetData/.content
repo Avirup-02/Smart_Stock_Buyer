@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="M3yuUgBOn0WIlW5c8MMtsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in/stocks/zomato-ltd" CVScreenId="0067073b-2759-4176-abea-f9446c6b706e" CvTextArea="491, 573, 73, 21" CvType="AnyWordGroup" DesignTimeRectangle="491, 554, 73, 63" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' class='ft785Value right-align contentPrimary bodyLargeHeavy' tag='TD' /&gt;" Guid="61a308ee-916a-4d81-b2bc-8ce2a1f26e8c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Zomato Share Price Today - Zomato Limited Ltd Stock Price Live NSE/BSE' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0067073b-2759-4176-abea-f9446c6b706e" CvTextArea="63, 573, 140, 22" CvTextArgument="P/E Ratio(TTM)" CvType="Text" DesignTimeRectangle="65, 554, 426, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='ft785Head left-align contentSecondary bodyBase' aaname='P/E Ratio(TTM)' check:innerText='P/E Ratio(TTM)' /&gt;" Guid="739f9cdc-087c-477e-9868-c04198e5cdd3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="16cb762ea5475bc3996d19e0b40f9567.png" xmlns="">0NyQgNKD83k-eSI8YHrYhnA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

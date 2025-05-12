@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pvUTs8EMRU-bcqHyFuTFyQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in/stocks/zomato-ltd" CVScreenId="0067073b-2759-4176-abea-f9446c6b706e" CvTextArea="1197, 510, 67, 21" CvType="AnyWordGroup" DesignTimeRectangle="1199, 491, 66, 63" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' class='ft785Value right-align contentPrimary bodyLargeHeavy' tag='TD' /&gt;" Guid="991b7907-a351-4282-85bf-bd83ef3a21ef" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Zomato Share Price Today - Zomato Limited Ltd Stock Price Live NSE/BSE' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0067073b-2759-4176-abea-f9446c6b706e" CvTextArea="764, 512, 39, 19" CvTextArgument="ROE" CvType="Text" DesignTimeRectangle="765, 491, 434, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='ft785Head left-align contentSecondary bodyBase' aaname='ROE' check:innerText='ROE' /&gt;" Guid="17d03350-361d-49bc-b541-e0e884a030e5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="31145384480f3ce70e8dbc23f6d2060e.png" xmlns="">0AaVIRSQV-k6QGZgTUzaYpw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

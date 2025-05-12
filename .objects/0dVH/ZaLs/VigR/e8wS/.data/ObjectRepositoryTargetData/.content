@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m6Oe51I8cEmXwe1KpN-c9A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="147, 493, 951, 86" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='LC20lb MBeuO DKV0Md' /&gt;" Guid="834a67d2-8e7e-4066-b224-d6c429328612" ScopeSelectorArgument="&lt;html app='msedge.exe' title='GROWW - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="147, 436, 978, 57" FuzzySelectorArgument="&lt;webctrl type='' parentid='rso' tag='DIV' class='q0vns' aaname='' check:innerText='Groww&amp;#xA;https://groww.in' /&gt;" Guid="180fb23c-5cba-43a1-b4f1-8c3994e16749" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cb83d5756084f94006ec93e94025e164.png" xmlns="">08McgZVf4BEmATkZUvGFyvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

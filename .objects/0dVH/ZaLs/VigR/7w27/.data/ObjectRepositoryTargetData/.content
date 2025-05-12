@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_FjI_jJDskWviUrJz8APzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="0540fdde-54c6-4097-8bb6-9c5c442ba7d2" CvTextArea="833, 420, 70, 16" CvType="AnyWordGroup" DesignTimeRectangle="835, 417, 68, 24" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='suggestionszomato-ltd' tag='SPAN' type='' class='' /&gt;" Guid="fc211683-2bba-4ade-a0bf-68ec33f21f14" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0540fdde-54c6-4097-8bb6-9c5c442ba7d2" CvTextArea="1301, 404, 46, 18" CvTextArgument="Stock" CvType="Text" DesignTimeRectangle="1303, 400, 44, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Stock' parentid='suggestionszomato-ltd' tag='SPAN' type='' class='contentSecondary bodySmall' check:innerText='Stock' /&gt;" Guid="b5cee603-48ba-4831-8dd0-da7aceb43452" SearchSteps="FuzzySelector, CV" />
+          <Target DesignTimeRectangle="724, 282, 659, 87" FuzzySelectorArgument="&lt;webctrl type='' class='contentAccent valign-wrapper vspace-between sf54SearchFilterRow bodySmallHeavy' tag='DIV' aaname='' check:innerText='All&amp;#xA;Stocks&amp;#xA;MF&amp;#xA;F&amp;amp;O' /&gt;" Guid="07d6fcb0-7a26-4a01-826d-ec1274bb09dc" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="88e90e73cd26f86f3407477db862b203.png" xmlns="">0h3lbVxsmNk-QfDiLp_0jrA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
